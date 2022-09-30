@@ -1,0 +1,15 @@
+.font-footer {
+	background-color: #EEE0D3;
+	margin: 1px;
+
+
+}
+
+.footer-bottom {
+	display: flex;
+	justify-content: space-evenly;
+	height: 40px;
+	align-items: center;
+	margin-bottom: 32px;
+	font-weight: bold;
+}
